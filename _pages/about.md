@@ -29,21 +29,21 @@ Cortex-wide neural imaging in behaving mice
 -Implemented automated preprocessing and data transfer (batch script executing python and MATLAB scripts)
 -Created multi-stage analytic pipeline (PCA, custom curve fitting, feature engineering, cross-validated logistic regression, Bernoulli testing, permutation testing) to create publication-ready figures (matplotlib, seaborn)
 -Presented at International Brain Lab Annual Meeting with manuscript in preparation
--Code available [here][https://github.com/cskrasniak/wfield/tree/master/notebooks]
+-Code available [here](https://github.com/cskrasniak/wfield/tree/master/notebooks)
 -Insert image here
 
 Inhibition scan of cortex
 ----
 -Found different roles of visual cortex and secondary motor cortex in the standard drift-diffusion model
--Integrated 2d laser scanning (MATLAB) with existing custom behavioral task code (Python) [code here][https://github.com/cskrasniak/lesion_project/tree/master/GalvoScanning]
--Fit behavior to a psychometric function using maximum likelihood optimization [code here][https://github.com/cskrasniak/lesion_project/blob/master/thesis_scan_analysis]
+-Integrated 2d laser scanning (MATLAB) with existing custom behavioral task code (Python) [code here](https://github.com/cskrasniak/lesion_project/tree/master/GalvoScanning)
+-Fit behavior to a psychometric function using maximum likelihood optimization [code here](https://github.com/cskrasniak/lesion_project/blob/master/thesis_scan_analysis)
 -Created a drift-diffusion model simulation to compare behavioral results to the model
 -Image here
 
 Ongoing work -> predicting income from an AirBnB listing
 ----
--compiled listing data from [insideAirBnB][http://insideairbnb.com/] with Selenium
--cleaned data with pandas [code here][https://github.com/cskrasniak/rentals]
+-compiled listing data from [insideAirBnB](http://insideairbnb.com/) with Selenium
+-cleaned data with pandas [code here](https://github.com/cskrasniak/rentals)
 -plan to use this data to create a dashboard for determining how much you could earn by listing a property
 
 
