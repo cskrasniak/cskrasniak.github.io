@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Christopher Krasniak, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,11 +13,11 @@ I'm a neuroscientist-turned-data scientist excited about exploring data to answe
 Experience
 ======
 
--Cold Spring Harbor Laboratory – Graduate researcher
+- Cold Spring Harbor Laboratory – Graduate researcher
 
--[International Brain Laboratory](https://www.internationalbrainlab.com/] – Researcher				            
+- [International Brain Laboratory](https://www.internationalbrainlab.com/] – Researcher				            
 
--Colby College Research Methods and Statistics in Psychology TA
+- Colby College Research Methods and Statistics in Psychology TA
 
 
 Recent Projects
