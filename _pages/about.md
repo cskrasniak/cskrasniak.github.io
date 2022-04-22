@@ -22,6 +22,7 @@ Experience
 
 Recent Projects
 ======
+ 
 Cortex-wide neural imaging in behaving mice
 ----
 -Found that neural information predictive of behavior is both distributed throughout the brain, but specifically localized at different times
