@@ -13,33 +13,39 @@ I'm a neuroscientist-turned-data scientist excited about exploring data to answe
 Experience
 ======
 
-#Cold Spring Harbor Laboratory – Graduate researcher			            Cold Spring Harbor, NY
-##Imaging and manipulating mouse cortical decision-making | August 2016 to May 2022
-•	Discovered that neural information predictive of behavior is both distributed throughout the brain, but specifically localized at different times
-•	Recorded 100Tb neural imaging data from behaving mice
-•	Implemented automated preprocessing and data transfer (batch script executing python and MATLAB scripts)
-•	Created multi-stage analytic pipeline (PCA, custom curve fitting, feature engineering, cross-validated logistic regression, Bernoulli testing, permutation testing) to create publication-ready figures (matplotlib, seaborn)
-•	Presented at International Brain Lab Annual Meeting with manuscript in preparation
+-Cold Spring Harbor Laboratory – Graduate researcher
 
-#International Brain Laboratory – Researcher				            Cold Spring Harbor, NY
-##Creating a standardized decision-making task for mice | April 2018 to April 2020
-•	Developed a novel behavioral task with a large-scale collaboration, deploying the first multi-site standardized mouse behavior
-•	Co-authored the nearly 200-page detailed protocols for building the apparatus, installing the required code, and performing the experiments
-•	Co-authored a paper detailing the scientific findings from this behavior in eLife
-•	Served as a code reviewer to ensure reproducibility of analyses (python with clean conda install)
-##Recording neural activity across the mouse brain | May 2019 to April 2022
-•	Performed challenging hours-long experiments in contribution to the largest known database of single-cell neural activity
-•	Performed and evaluated quality-control on multiple data streams
+-[International Brain Laboratory][https://www.internationalbrainlab.com/] – Researcher				            
+
+-Colby College Research Methods and Statistics in Psychology TA
 
 
-Getting started
+Recent Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Cortex-wide neural imaging in behaving mice
+----
+-Found that neural information predictive of behavior is both distributed throughout the brain, but specifically localized at different times
+-Collected 100Tb of imaging data
+-Implemented automated preprocessing and data transfer (batch script executing python and MATLAB scripts)
+-Created multi-stage analytic pipeline (PCA, custom curve fitting, feature engineering, cross-validated logistic regression, Bernoulli testing, permutation testing) to create publication-ready figures (matplotlib, seaborn)
+-Presented at International Brain Lab Annual Meeting with manuscript in preparation
+-Code available [here][https://github.com/cskrasniak/wfield/tree/master/notebooks]
+-Insert image here
+
+Inhibition scan of cortex
+----
+-Found different roles of visual cortex and secondary motor cortex in the standard drift-diffusion model
+-Integrated 2d laser scanning (MATLAB) with existing custom behavioral task code (Python) [code here][https://github.com/cskrasniak/lesion_project/tree/master/GalvoScanning]
+-Fit behavior to a psychometric function using maximum likelihood optimization [code here][https://github.com/cskrasniak/lesion_project/blob/master/thesis_scan_analysis]
+-Created a drift-diffusion model simulation to compare behavioral results to the model
+-Image here
+
+Ongoing work -> predicting income from an AirBnB listing
+----
+-compiled listing data from [insideAirBnB][http://insideairbnb.com/] with Selenium
+-cleaned data with pandas [code here][https://github.com/cskrasniak/rentals]
+-plan to use this data to create a dashboard for determining how much you could earn by listing a property
+
 
 Site-wide configuration
 ------
