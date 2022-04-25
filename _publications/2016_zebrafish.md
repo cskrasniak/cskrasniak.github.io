@@ -3,7 +3,7 @@ title: "Syntaxin-Binding Protein 1 (STXBP1) Mutant Zebrafish to Model Human Neur
 collection: publications
 permalink: /publications/2016_zebrafish
 excerpt: 'Characterization of the creation of a zebrafish model for neurodevelopmental epilepsy'
-date: 2016
+date: 2016-01-01
 venue: 'PLOS One'
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151148'
 citation: 'Grone, B. P., Marchese, M., Hamling, K. R., Kumar, M. G., Krasniak, C. S., Sicca, F., Santorelli, F. M., Patel, M., & Baraban, S. C. (2016). &quot;Epilepsy, Behavioral Abnormalities, and Physiological Comorbidities in Syntaxin-Binding Protein 1 (STXBP1) Mutant Zebrafish.&quot; <i>PLOS One</i>. 11(3): e0151148.'
