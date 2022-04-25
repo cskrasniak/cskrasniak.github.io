@@ -9,13 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- <iframe src="https://docs.google.com/document/d/e/2PACX-1vSKLBCog_f5cGN3jv6kk5ZwvsdER5ZrHdgUpla_ydHHDk4nBO2emueWTTDw94i483Q4VX8nrzIWddYs/pub?embedded=true" width="100%" height=1200></iframe>-->
+ <object data="../files/resume_bullets.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="120%" type='application/pdf'></object>
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,14 +24,14 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Neuroscience, Cold Spring Harbor Laboratory, 2022
+    * _Dissertation_: Mesoscale imaging and inhibition in a standardized visual decision-making task
+* B.A. in Biology and Psychology with a concentration in neuroscience, Colby College, 2012-2016
+    * _Honors_: Phi Beta Kappa, graduated Summa Cum Laude, William D. Adams Presidential Scholar
+
+
 
 Publications
 ======
