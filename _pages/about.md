@@ -15,7 +15,7 @@ Experience
 
 - Cold Spring Harbor Laboratory – Graduate researcher
 
-- [International Brain Laboratory](https://www.internationalbrainlab.com/] – Researcher				            
+- [International Brain Laboratory](https://www.internationalbrainlab.com/) – Researcher				            
 
 - Colby College Research Methods and Statistics in Psychology TA
 
