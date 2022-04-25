@@ -1,7 +1,7 @@
 ---
 title: "Syntaxin-Binding Protein 1 (STXBP1) Mutant Zebrafish to Model Human Neurodevelopmental Disease."
 collection: publications
-permalink: /publication/2016_zebrafish
+permalink: /publications/2016_zebrafish
 excerpt: 'Characterization of the creation of a zebrafish model for neurodevelopmental epilepsy'
 date: 2016
 venue: 'PLOS One'
