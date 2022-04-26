@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2022_Thesis
 excerpt: 'PhD dissertation submitted to the CSHL SBS on April 5, 2022 '
 date: 2022-04-05
-venue: 'eLife'
+venue: 'Cold Spring Harbor Laboratory School of Biological Sciences'
 paperurl: 'http://cskrasniak.github.io/files/Krasniak_Thesis.pdf'
 citation: 'Krasniak, C.S., Pouget, A., and Zador, A.M.. (2022). &quot;Mesoscale imaging and inactivation in a standardized decision-making task.&quot; <i>A PhD Dissertation presented to The Cold Spring Harbor Laboratory School of Biological Sciences.'
 ---
