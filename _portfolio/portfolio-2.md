@@ -1,6 +1,6 @@
 ---
 title: "Error in electrode insertion targetting"
-excerpt: "A map showing the error in insertion of electrodes across many experiments<br/><img src='/images/Targeting_error.png'>"
+excerpt: "Finding the source of systematic errors<br/><img src='/images/Targeting_error.png'>"
 collection: portfolio
 ---
 
