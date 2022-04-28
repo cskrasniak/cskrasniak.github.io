@@ -1,6 +1,6 @@
 ---
-title: "Error in electrode insertion targetting"
-excerpt: "Finding the source of systematic errors<br/><img src='/images/Targeting_error.png'>"
+title: "Error in electrode insertion targeting"
+excerpt: "Finding the source of systematic errors in electrode targeting<br/><img src='/images/Targeting_error.png'>"
 collection: portfolio
 ---
 
