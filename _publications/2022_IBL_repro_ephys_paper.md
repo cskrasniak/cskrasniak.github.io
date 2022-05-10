@@ -1,8 +1,8 @@
 ---
-title: "Reproducibility of in-vivo electrophysiologyical measurements in mice"
+title: "Reproducibility of in-vivo electrophysiological measurements in mice"
 collection: publications
 permalink: /publications/2021_IBL_task_paper
-excerpt: 'Details the protocols and reproducibility of the visual decision-making task developed by the international Brain Lab and deployed to seven different laboratories.'
+excerpt: 'Details the protocols and reproducibility of acute in-vivo electrophysiology in mice performing a  decision-making task deployed to nine different laboratories.'
 date: 2022-05-09
 venue: 'BioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2022.05.09.491042v2'
