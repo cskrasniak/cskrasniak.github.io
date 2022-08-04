@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a neuroscientist-turned-data scientist excited about exploring data to answer interesting questions and solve problems.
+I'm a data  with a background in neuroscience excited about exploring data to answer interesting questions and solve business problems.
 
 Experience
 ======
+- The Data Incubator — Data Science Fellow
 
 - Cold Spring Harbor Laboratory – Graduate researcher
 
@@ -23,6 +24,15 @@ Experience
 Recent Projects
 ======
  
+Ongoing work -> Web app for optimized income from short-term rentals
+----
+- scraped ~500k AirBnB listings from 30 cities 
+- created preprocessing pipeline to seamlessly filter and clean data
+- trained XGBoost model to predict occupancy rates for each listing using all availbale data, including NLP of text fields and feature engineering of location, price, etc.
+- creating webapp to take user input and predict monthly earnings for the details of a user's listing
+- [Code here](https://github.com/cskrasniak/rentals)
+
+
 Cortex-wide neural imaging in behaving mice
 ----
 - Found that neural information predictive of behavior is both distributed throughout the brain, but specifically localized at different times
@@ -40,10 +50,4 @@ Inhibition scan of cortex
 - Fit behavior to a psychometric function using maximum likelihood optimization [code here](https://github.com/cskrasniak/lesion_project/blob/master/thesis_scan_analysis)
 - Created a drift-diffusion model simulation to compare behavioral results to the model
 - Image here
-
-Ongoing work -> predicting income from an AirBnB listing
-----
-- Compiled listing data from [insideAirBnB](http://insideairbnb.com/) with Selenium
-- Cleaned data with pandas [code here](https://github.com/cskrasniak/rentals)
-- Plan to use this data to create a dashboard for determining how much you could earn by listing a property
 
