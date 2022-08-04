@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christopher Krasniak | Aspiring Data Scientist"
+title                    : "Christopher Krasniak | Data Scientist, Neuroscientist"
 title_separator          : "-"
 name                     : &name "Christopher Krasniak, PhD"
 description              : &description "Neuroscience researcher interested in applying Data Science to create data products in a wide range of fields"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Christopher Krasniak"
   avatar           : "Headshot.png"
-  bio              : "Neuroscientist, Data Scientist, "
+  bio              : "Data Scientist, Neuroscientist "
   location         : "Enfield, NH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=christopher+krasniak"
