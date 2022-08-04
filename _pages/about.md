@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data  with a background in neuroscience excited about exploring data to answer interesting questions and solve business problems.
+I'm a data  with a background in neuroscience excited about exploring data to answer interesting questions and solve business problems. Im especially interested in Biotech and tech, but I can get excited about almost any challenging field.
 
 Experience
 ======
@@ -17,7 +17,6 @@ Experience
 - Cold Spring Harbor Laboratory – Graduate researcher
 
 - [International Brain Laboratory](https://www.internationalbrainlab.com/) – Researcher				            
-
 - Colby College Research Methods and Statistics in Psychology TA
 
 
