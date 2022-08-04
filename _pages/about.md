@@ -13,9 +13,7 @@ I'm a data  with a background in neuroscience excited about exploring data to an
 Experience
 ======
 - The Data Incubator — Data Science Fellow
-
 - Cold Spring Harbor Laboratory – Graduate researcher
-
 - [International Brain Laboratory](https://www.internationalbrainlab.com/) – Researcher				            
 - Colby College Research Methods and Statistics in Psychology TA
 
