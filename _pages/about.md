@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data  with a background in neuroscience excited about exploring data to answer interesting questions and solve business problems. Im especially interested in Biotech and tech, but I can get excited about almost any challenging field.
+I'm a data  with a background in neuroscience excited about exploring data to answer interesting questions and solve business problems. I'm especially interested in Biotech and tech, but I can get excited about almost any challenging field.
 
 Experience
 ======
