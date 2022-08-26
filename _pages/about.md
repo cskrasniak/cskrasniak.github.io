@@ -12,7 +12,7 @@ I'm a data scientist with a background in neuroscience excited about exploring d
 
 Experience
 ======
-- The Data Incubator — Data Science Fellow
+- [The Data Incubator](https://www.thedataincubator.com/programs/data-science-fellowship/) — Data Science Fellow
     - Learned broad set of Data Science tools
     - Completed capstone project predicting rental income from data scraped from AirBnB by combining NLP and XGBoost regression
     - Project selected for the prestigious Capstone Showcase presentation
