@@ -13,9 +13,19 @@ I'm a data scientist with a background in neuroscience excited about exploring d
 Experience
 ======
 - The Data Incubator — Data Science Fellow
+    - Learned broad set of Data Science tools
+    - Completed capstone project predicting rental income from data scraped from AirBnB by combining NLP and XGBoost regression
+    - Project selected for the prestigious Capstone Showcase presentation
 - Cold Spring Harbor Laboratory – Graduate researcher
-- [International Brain Laboratory](https://www.internationalbrainlab.com/) – Researcher				            
+    - Led individual project aimed at understanding the basic neuroscience of decision-making
+    - Designed and conducted experiments, and created automated pipeline for data preprocessing and transfer
+    - Created analysis scripts including feature engineering, Machine Learning, and statistical testing, to create figures for a manuscript
+- [International Brain Laboratory](https://www.internationalbrainlab.com/) – Researcher
+    - Collaborated with a 20+ member team to create the first standardized behavioral task in systems neuroscience
+    - Co-authored a [paper in eLife](https://elifesciences.org/articles/63711) including the 200+ pages of detailed technical procedures
+    - Contributed to the [largest single-cell electrophysiology dataset to date](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v2)
 - Colby College Research Methods and Statistics in Psychology TA
+    - Assisted students with coursework, experimental design, and hypothesis testing
 
 
 Recent Projects
@@ -39,6 +49,7 @@ Cortex-wide neural imaging in behaving mice
 - Created multi-stage analytic pipeline (PCA, custom curve fitting, feature engineering, cross-validated logistic regression, Bernoulli testing, permutation testing) to create publication-ready figures (matplotlib, seaborn)
 - Presented at International Brain Lab Annual Meeting with manuscript in preparation
 - [Code here](https://github.com/cskrasniak/wfield/tree/master/notebooks)
+
 ![Logistic regression weights across the mouse cortex for decoding stimulus side](../images/model_comparison_weights_frame_3.png)
 
 Inhibition scan of cortex
