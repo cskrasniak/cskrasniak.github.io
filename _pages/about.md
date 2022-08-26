@@ -16,7 +16,7 @@ Experience
     - Learned broad set of Data Science tools
     - Completed capstone project predicting rental income from data scraped from AirBnB by combining NLP and XGBoost regression
     - Project selected for the prestigious Capstone Showcase presentation
-- Cold Spring Harbor Laboratory – Graduate researcher
+- [Cold Spring Harbor Laboratory](https://www.cshl.edu/phd-program/) – Graduate researcher
     - Led individual project aimed at understanding the basic neuroscience of decision-making
     - Designed and conducted experiments, and created automated pipeline for data preprocessing and transfer
     - Created analysis scripts including feature engineering, Machine Learning, and statistical testing, to create figures for a manuscript
