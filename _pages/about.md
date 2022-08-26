@@ -26,7 +26,8 @@ Ongoing work -> Web app for optimized income from short-term rentals
 - scraped ~500k AirBnB listings from 30 cities 
 - created preprocessing pipeline to seamlessly filter and clean data
 - trained XGBoost model to predict occupancy rates for each listing using all availbale data, including NLP of text fields and feature engineering of location, price, etc.
-- creating webapp to take user input and predict monthly earnings for the details of a user's listing
+- created webapp to take user input and predict monthly earnings for the details of a user's listing
+- allows users to try different listing details (description, name, # guests, etc.) to optimize income
 - [Code here](https://github.com/cskrasniak/rentals)
 
 
@@ -38,7 +39,7 @@ Cortex-wide neural imaging in behaving mice
 - Created multi-stage analytic pipeline (PCA, custom curve fitting, feature engineering, cross-validated logistic regression, Bernoulli testing, permutation testing) to create publication-ready figures (matplotlib, seaborn)
 - Presented at International Brain Lab Annual Meeting with manuscript in preparation
 - [Code here](https://github.com/cskrasniak/wfield/tree/master/notebooks)
-![Logistic regression weights across the mouse cortex for decoding stimulus side](model_comparison_weights_frame_3.png)
+![Logistic regression weights across the mouse cortex for decoding stimulus side](../images/model_comparison_weights_frame_3.png)
 
 Inhibition scan of cortex
 ----
@@ -46,5 +47,5 @@ Inhibition scan of cortex
 - Integrated 2d laser scanning (MATLAB) with existing custom behavioral task code (Python) [code here](https://github.com/cskrasniak/lesion_project/tree/master/GalvoScanning)
 - Fit behavior to a psychometric function using maximum likelihood optimization [code here](https://github.com/cskrasniak/lesion_project/blob/master/thesis_scan_analysis)
 - Created a drift-diffusion model simulation to compare behavioral results to the model
-- Image here
+
 
