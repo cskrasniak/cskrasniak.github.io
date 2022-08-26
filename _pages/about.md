@@ -38,7 +38,7 @@ Cortex-wide neural imaging in behaving mice
 - Created multi-stage analytic pipeline (PCA, custom curve fitting, feature engineering, cross-validated logistic regression, Bernoulli testing, permutation testing) to create publication-ready figures (matplotlib, seaborn)
 - Presented at International Brain Lab Annual Meeting with manuscript in preparation
 - [Code here](https://github.com/cskrasniak/wfield/tree/master/notebooks)
-- Insert image here
+![Logistic regression weights across the mouse cortex for decoding stimulus side](model_comparison_weights_frame_3.png)
 
 Inhibition scan of cortex
 ----
