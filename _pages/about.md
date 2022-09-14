@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data scientist with a background in neuroscience excited about exploring data to answer interesting questions and solve business problems. I'm especially interested in biotech and tech, but I can get excited about almost any challenging field.
+I'm a data scientist with a background in neuroscience excited about exploring data to answer interesting questions and solve challenging business problems. I'm especially interested in green energy, IoT, and biotech, but I can get excited about almost any challenging field.
 
 Experience
 ======
 - [The Data Incubator](https://www.thedataincubator.com/programs/data-science-fellowship/) — Data Science Fellow
     - Learned broad set of Data Science tools
     - Completed capstone project predicting rental income from data scraped from AirBnB by combining NLP and XGBoost regression
-    - Project selected for the prestigious Capstone Showcase presentation
+    - [Project](https://cskrasniak-rentals-app-k2r9a5.streamlitapp.com/) selected for the prestigious Capstone Showcase presentation
 - [Cold Spring Harbor Laboratory](https://www.cshl.edu/phd-program/) – Graduate researcher
     - Led individual project aimed at understanding the basic neuroscience of decision-making
     - Designed and conducted experiments, and created automated pipeline for data preprocessing and transfer
-    - Created analysis scripts including feature engineering, Machine Learning, and statistical testing, to create figures for a manuscript
+    - Created analysis scripts including feature engineering, machine learning, and statistical testing, to create figures for a manuscript
 - [International Brain Laboratory](https://www.internationalbrainlab.com/) – Researcher
     - Collaborated with a 20+ member team to create the first standardized behavioral task in systems neuroscience
     - Co-authored a [paper in eLife](https://elifesciences.org/articles/63711) including the 200+ pages of detailed technical procedures
@@ -31,13 +31,14 @@ Experience
 Recent Projects
 ======
  
-Ongoing work -> Web app for optimized income from short-term rentals
+Web app for optimized income from short-term rentals
 ----
 - scraped ~500k AirBnB listings from 30 cities 
 - created preprocessing pipeline to seamlessly filter and clean data
 - trained XGBoost model to predict occupancy rates for each listing using all availbale data, including NLP of text fields and feature engineering of location, price, etc.
 - created webapp to take user input and predict monthly earnings for the details of a user's listing
 - allows users to try different listing details (description, name, # guests, etc.) to optimize income
+- [app here](https://cskrasniak-rentals-app-k2r9a5.streamlitapp.com/)
 - [Code here](https://github.com/cskrasniak/rentals)
 
 
